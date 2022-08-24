@@ -1,50 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jeffrey Mahr">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11587</md:content-id>
-  <md:title>Cell Energy (GPC)</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  <md:uuid>a98e4b18-2258-4e12-badc-045180e0c3ab</md:uuid>
-<md:slug>cell-energy-gpc</md:slug>
-</metadata>
-
+    <md:content-id>col11587</md:content-id>
+    <md:title>Cell Energy (GPC)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>a98e4b18-2258-4e12-badc-045180e0c3ab</md:uuid>
+    <md:slug>cell-energy-gpc</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m47935"/>
-        
-      
-    
-    
-      <col:module document="m47936"/>
-        
-      
-    
-    
-      <col:module document="m47939"/>
-        
-      
-    
-    
-      <col:module document="m47947"/>
-        
-      
-    
-    
-      <col:module document="m47948"/>
-        
-      
-    
-    
-      <col:module document="m47949"/>
-        
-      
-    
+    <col:module document="m47935"/>
+    <col:module document="m47936"/>
+    <col:module document="m47939"/>
+    <col:module document="m47947"/>
+    <col:module document="m47948"/>
+    <col:module document="m47949"/>
   </col:content>
 </col:collection>
